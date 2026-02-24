@@ -1,1 +1,1 @@
-# ecommerce-support-rag-prototype
+# Ecommerce-Support-RAG-Prototype
