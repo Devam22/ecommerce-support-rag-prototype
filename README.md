@@ -67,4 +67,3 @@ streamlit run app.py
 ---
 
 I hope i can do better in my next project. 🎉
->>>>>>> 024ac89872e46523c9ef16cc87a2c31ad473e7e7
