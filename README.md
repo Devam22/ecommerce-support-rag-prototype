@@ -1,5 +1,5 @@
 
-### Ecommerce-Support-RAG-Prototype
+# Ecommerce-Support-RAG-Prototype
 
 ## 📌 Overview
 This project is a **Customer Support RAG Chatbot that can be accessed through streamlit web applications.**
