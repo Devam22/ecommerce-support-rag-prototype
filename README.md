@@ -26,7 +26,7 @@ Users can **Ask questions** about products, the purchase process, returning good
 ### **Clone the Repository**
 ```sh
 git clone https://github.com/Devam22/ecommerce-support-rag-prototype
-cd Customer-Support-RAG
+cd ecommerce-support-rag-prototype
 ```
 
 ### **Create a Virtual Environment & Install Dependencies**
