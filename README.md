@@ -25,7 +25,7 @@ Users can **Ask questions** about products, the purchase process, returning good
 ## 🏗️ Installation & Setup
 ### **Clone the Repository**
 ```sh
-git clone https://github.com/renaldiangsar/Customer-Support-RAG.git
+git clone https://github.com/Devam22/ecommerce-support-rag-prototype
 cd Customer-Support-RAG
 ```
 
